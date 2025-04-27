@@ -118,6 +118,9 @@ _TeamCity*
 *.coverage
 *.coveragexml
 
+# Visual Studio Settings
+appsettings.json
+
 # NCrunch
 _NCrunch_*
 .*crunch*.local.xml
